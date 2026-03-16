@@ -118,18 +118,17 @@
             text-decoration: underline;
             color: #0066ff;
         }
-        img{
-            width:100% ;
-        }
+        
+        
         nav a{
             text-decoration: none;
             color: white;
             margin: 0px;
             padding: 10px;
         }
-        main .bugdroid{
-            max-width: 800px;
-            display: block;
+        main.pequena{
+            max-width: 900px;
+            display:block ;
             margin: auto;
         }
         div.video{
@@ -148,6 +147,7 @@
             height: 90%;
           
         }
+
        
         
         
