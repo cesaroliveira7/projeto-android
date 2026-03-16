@@ -126,8 +126,8 @@
             margin: 0px;
             padding: 10px;
         }
-        main.pequena{
-            max-width: 900px;
+        main img.pequena{
+            max-width: 350px;
             display:block ;
             margin: auto;
         }
@@ -147,6 +147,10 @@
             height: 90%;
           
         }
+        img{
+            width: 100%;
+        }
+       
 
        
         
