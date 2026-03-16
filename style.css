@@ -99,8 +99,8 @@
         main{
             background-color: white;
             padding: 10px;
-            min-width: 300px;
-            max-width: 1050px;
+            min-width: 350px;
+            max-width: 1000px;
             margin: auto;
             margin-bottom: 30px;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.484);
