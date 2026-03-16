@@ -86,8 +86,9 @@
         }
         main > h2{
             font-family: var(--fonte-android);
+            background-image: linear-gradient(to right,#2685BF, white );
             padding: 10px;
-            color: var(--cor3);
+            color: white;
             font-weight: normal;
 
         }
