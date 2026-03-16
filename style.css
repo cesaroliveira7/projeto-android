@@ -152,11 +152,9 @@
             width: 100%;
         }
         main img.irina{
-            position: relative;
-            width: 350px;
-            margin: auto;
-            padding: 10px;
-            left: 30%;
+          display: block;
+          margin: auto;
+          width: 400px;
         }
        
 
